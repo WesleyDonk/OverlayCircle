@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="circle_radius">20dp</dimen>
+
+    <dimen name="circle_shake_x">5dp</dimen>
+    <dimen name="circle_shake_y">5dp</dimen>
+
+    <dimen name="circle_position_x">0dp</dimen>
+    <dimen name="circle_position_y">0dp</dimen>
+
+</resources>
